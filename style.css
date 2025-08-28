@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+p{
+    font-weight: bolder;
+    
+}
+.italic {
+    font-style: italic;
+}
+.underline {
+    text-decoration: underline
+}
+.fontt {
+    font-weight: bolder;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    background-color: black;
+    text-shadow: 3px 3px 3px red;
+}
+.fontt {
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+color: white;
+    background-color: black;
+    
+}
+a {
+    display: inline-block;
+    margin-right: 15px;
+    text-decoration: none;
+    color: red;
+}
+a:link {
+    color: brown;
+    text-decoration: none;
+}
+a:hover {
+    color: aquamarine;
+    text-decoration: underline;
+}
+header a {
+    background-color: blue;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin-right: 5px;
+    border-radius: 5px;
+}
